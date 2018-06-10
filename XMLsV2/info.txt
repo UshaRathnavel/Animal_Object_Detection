@@ -1,1 +1,1 @@
-Newly generated xmls in Pascal-Voc format
+Xmls for all the images
