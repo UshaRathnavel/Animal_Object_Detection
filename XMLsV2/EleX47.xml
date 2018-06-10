@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Elephant47.jpg</filename>
+	<path>/home/usrathna/Elephantdetection/Images/Elephant47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Indian Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>5</ymin>
+			<xmax>780</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
