@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Elephant Images</folder>
+	<filename>Elephant (119).jpg</filename>
+	<path>C:\Users\usrathna\Downloads\Labelmgwindows_v1.7.0\Elephant Images\Elephant (119).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Indian Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>31</ymin>
+			<xmax>298</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Indian Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>60</ymin>
+			<xmax>449</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Indian Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>135</ymin>
+			<xmax>391</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Indian Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>2</ymin>
+			<xmax>149</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
